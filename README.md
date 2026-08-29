@@ -1,6 +1,6 @@
 REGISTRATION FORM   📋
 
-    https://oussamaaessi83-glitch.github.io/REGISTRATION-FORM/
+    (https://oussamaaessi83-glitch.github.io/REGISTRATION-FORM/)
 
 💁‍♂️🤷‍♂️it is a small test project with only html:💁‍♂️🤷‍♂️
 * you can move between the sections easly🏃
